@@ -246,15 +246,6 @@ Infix: (2+3)*4-5
     └── 📄 Project 1 Spring 2023.pdf  # Project specifications
 ```
 
-## 🧪 Testing
-
-### Test Cases Included
-- ✅ Large number arithmetic (1000+ digits)
-- ✅ Negative number handling
-- ✅ Edge cases (zero, single digit)
-- ✅ Complex nested expressions
-- ✅ Invalid syntax detection
-- ✅ File I/O operations
 
 ### Sample Test Files
 
@@ -294,23 +285,6 @@ Create `reader.txt` for expression evaluator:
 - **Memory-efficient linked list implementation**
 - **Fast stack-based expression evaluation**
 
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. 🍴 Fork the repository
-2. 🌿 Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. ✅ Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. 📤 Push to the branch (`git push origin feature/AmazingFeature`)
-5. 🔄 Open a Pull Request
-
-### Areas for Enhancement
-
-- [ ] GUI interface development
-- [ ] Additional mathematical operations (sqrt, power, etc.)
-- [ ] Floating-point support
-- [ ] Performance optimizations
-- [ ] Unit test suite expansion
 
 ## 👨‍💻 Author
 
