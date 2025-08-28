@@ -1,0 +1,11 @@
+
+InValid Equation
+((4+2)*2-9^2-(1*5)
+valid Equation
+555+5+5
+preFix:++55555
+Result Evalution:565
+valid Equation
+666+66*(1242-53221)/2
+preFix:+666/*66-1242532212
+Result Evalution:-1714641

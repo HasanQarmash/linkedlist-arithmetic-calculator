@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1687167364 source:c:\users\qarma\desktop\testproj\p1_1210611_hasanqarmash_2.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+
